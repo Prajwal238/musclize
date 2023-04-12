@@ -1,0 +1,1 @@
+Fitness app made using react native. User doesn't need to create any account not give details. Users can add workouts to their daily routing and share to friends using social media platforms. Users can also checkout nearby gyms around their location.
